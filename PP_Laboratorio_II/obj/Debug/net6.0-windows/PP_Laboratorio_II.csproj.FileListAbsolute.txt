@@ -1,0 +1,16 @@
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\PP_Laboratorio_II.exe
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\PP_Laboratorio_II.deps.json
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\PP_Laboratorio_II.runtimeconfig.json
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\PP_Laboratorio_II.dll
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\PP_Laboratorio_II.pdb
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.Form1.resources
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.csproj.GenerateResource.cache
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.AssemblyInfoInputs.cache
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.AssemblyInfo.cs
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.csproj.CoreCompileInputs.cache
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.dll
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\refint\PP_Laboratorio_II.dll
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.pdb
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\PP_Laboratorio_II.genruntimeconfig.cache
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\ref\PP_Laboratorio_II.dll
