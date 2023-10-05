@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP_Laboratorio_II", "PP_Laboratorio_II\PP_Laboratorio_II.csproj", "{FF37361B-F5B9-4B51-A1E3-C971EBB9EC54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrmView", "PP_Laboratorio_II\FrmView.csproj", "{FF37361B-F5B9-4B51-A1E3-C971EBB9EC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{F73A24B7-38A0-430E-9EDE-1E628DEF9B3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FF37361B-F5B9-4B51-A1E3-C971EBB9EC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF37361B-F5B9-4B51-A1E3-C971EBB9EC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF37361B-F5B9-4B51-A1E3-C971EBB9EC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73A24B7-38A0-430E-9EDE-1E628DEF9B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73A24B7-38A0-430E-9EDE-1E628DEF9B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73A24B7-38A0-430E-9EDE-1E628DEF9B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73A24B7-38A0-430E-9EDE-1E628DEF9B3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

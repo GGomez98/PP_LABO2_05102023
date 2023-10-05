@@ -43,6 +43,7 @@
             btnCerrar = new Button();
             label5 = new Label();
             grpSistema.SuspendLayout();
+            SuspendLayout();
             // 
             // lblResultado
             // 
@@ -64,6 +65,7 @@
             rdbDecimal.TabStop = true;
             rdbDecimal.Text = "Decimal";
             rdbDecimal.UseVisualStyleBackColor = true;
+            rdbDecimal.CheckedChanged += rdbDecimal_CheckedChanged;
             // 
             // grpSistema
             // 
@@ -86,6 +88,7 @@
             rdbBinario.TabStop = true;
             rdbBinario.Text = "Binario";
             rdbBinario.UseVisualStyleBackColor = true;
+            rdbBinario.CheckedChanged += rdbBinario_CheckedChanged;
             // 
             // lblPrimerOperador
             // 
@@ -128,6 +131,7 @@
             cmbOperador.Name = "cmbOperador";
             cmbOperador.Size = new Size(121, 36);
             cmbOperador.TabIndex = 5;
+            cmbOperador.SelectedIndexChanged += cmbOperador_SelectedIndexChanged;
             // 
             // txtPrimerOperador
             // 
@@ -135,6 +139,7 @@
             txtPrimerOperador.Name = "txtPrimerOperador";
             txtPrimerOperador.Size = new Size(238, 23);
             txtPrimerOperador.TabIndex = 4;
+            txtPrimerOperador.TextChanged += txtPrimerOperador_TextChanged;
             // 
             // txtSegundoOperador
             // 
@@ -142,6 +147,7 @@
             txtSegundoOperador.Name = "txtSegundoOperador";
             txtSegundoOperador.Size = new Size(238, 23);
             txtSegundoOperador.TabIndex = 6;
+            txtSegundoOperador.TextChanged += txtSegundoOperador_TextChanged;
             // 
             // btnOperar
             // 
@@ -152,6 +158,7 @@
             btnOperar.TabIndex = 7;
             btnOperar.Text = "Operar";
             btnOperar.UseVisualStyleBackColor = true;
+            btnOperar.Click += btnOperar_Click;
             // 
             // btnLimpiar
             // 
@@ -162,6 +169,7 @@
             btnLimpiar.TabIndex = 8;
             btnLimpiar.Text = "Limpiar";
             btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // btnCerrar
             // 
@@ -172,6 +180,7 @@
             btnCerrar.TabIndex = 9;
             btnCerrar.Text = "Cerrar";
             btnCerrar.UseVisualStyleBackColor = true;
+            btnCerrar.Click += btnCerrar_Click;
             // 
             // label5
             // 
@@ -182,7 +191,7 @@
             label5.Size = new Size(0, 50);
             label5.TabIndex = 10;
             // 
-            // FrmCalculadora
+            // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -202,7 +211,7 @@
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             MinimizeBox = false;
-            Name = "FrmCalculadora";
+            Name = "Form1";
             Text = "Calculadora de Gastón Gómez";
             grpSistema.ResumeLayout(false);
             grpSistema.PerformLayout();
