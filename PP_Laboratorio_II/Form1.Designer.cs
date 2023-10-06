@@ -42,6 +42,8 @@
             btnLimpiar = new Button();
             btnCerrar = new Button();
             label5 = new Label();
+            textBox1 = new TextBox();
+            label1 = new Label();
             grpSistema.SuspendLayout();
             SuspendLayout();
             // 
@@ -58,6 +60,7 @@
             // rdbDecimal
             // 
             rdbDecimal.AutoSize = true;
+            rdbDecimal.Checked = true;
             rdbDecimal.Location = new Point(6, 22);
             rdbDecimal.Name = "rdbDecimal";
             rdbDecimal.Size = new Size(68, 19);
@@ -85,7 +88,6 @@
             rdbBinario.Name = "rdbBinario";
             rdbBinario.Size = new Size(62, 19);
             rdbBinario.TabIndex = 3;
-            rdbBinario.TabStop = true;
             rdbBinario.Text = "Binario";
             rdbBinario.UseVisualStyleBackColor = true;
             rdbBinario.CheckedChanged += rdbBinario_CheckedChanged;
@@ -191,11 +193,34 @@
             label5.Size = new Size(0, 50);
             label5.TabIndex = 10;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(880, 122);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
+            textBox1.Size = new Size(371, 295);
+            textBox1.TabIndex = 11;
+            textBox1.Text = "IstHistorial";
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Location = new Point(995, 76);
+            label1.Name = "label1";
+            label1.Size = new Size(101, 32);
+            label1.TabIndex = 12;
+            label1.Text = "Historial";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1304, 450);
+            Controls.Add(label1);
+            Controls.Add(textBox1);
             Controls.Add(label5);
             Controls.Add(btnCerrar);
             Controls.Add(btnLimpiar);
@@ -235,5 +260,7 @@
         private Button btnLimpiar;
         private Button btnCerrar;
         private Label label5;
+        private TextBox textBox1;
+        private Label label1;
     }
 }

@@ -14,3 +14,7 @@ D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6
 D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\FrmView.pdb
 D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\FrmView.genruntimeconfig.cache
 D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\ref\FrmView.dll
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\Entidades.dll
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\bin\Debug\net6.0-windows\Entidades.pdb
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\FrmView.csproj.AssemblyReference.cache
+D:\Gastón\UTN\Laboratorio II\PP_Laboratorio_II\PP_Laboratorio_II\obj\Debug\net6.0-windows\FrmView.csproj.CopyComplete
